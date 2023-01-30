@@ -30,8 +30,6 @@ Simplified from MIT version
 ## Summary
 
 ### Business recommendations 
-motivate drivers to midrate from urban areas  --> Create goal to raise minimum drivers by 10%
-
 
 ## Resources
 
