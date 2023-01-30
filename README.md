@@ -6,8 +6,8 @@ Simplified from MIT version
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Purpose">Purpose</a>
-      <a href="#Results">Results</a>
+      <a href="#Purpose">Purpose</a></li>
+      <a href="#Results">Results</a></li>
       <ul>
         <li><a href="#Insert-Sub-section-here">Insert sub-section here</a></li>
       </ul>
